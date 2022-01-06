@@ -1,0 +1,177 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    background-color: #fcf1f1;
+    margin: 0;
+}
+.banner-section h1{
+    font-size: 50px;
+}
+.colorful{
+    color: #bc67c8;
+}
+p{
+    text-align: justify;
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.banner-section{
+    padding: 40px 0px;
+    display:flex;
+}
+
+.content{
+    width: 50%;
+    float: left;
+    padding-right: 100px;
+}
+.content h1{
+    font-size: 65px;
+}
+.content p{
+    font-size: 18px;
+    font-weight: 100;
+    padding-bottom: 10px;
+    padding-top:10px;
+}
+.content-img{
+    width: 100%;
+}
+.content-img img{
+    width: 40%;
+    float:left;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 213, 241), rgb(168, 45, 168));
+    border-radius: 5px;
+    padding: 10px 50px;
+    
+}
+.mission-section h1{
+    text-align: center;
+    font-size: 50px;
+}
+.mission2022{
+    display: flex;
+    margin-bottom: 90px;
+}
+.mission{
+    width: 33%;
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: rgb(248, 210, 217);
+    margin-right: 2%;
+}
+.mission img{
+    width: 50%;
+}
+.vission{
+    width: 33%;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-color: rgb(230, 201, 207);
+    margin-right: 2%;
+}
+.vission img{
+    width: 50%;
+}
+.goal{
+    width: 33%;
+    padding-right: 20px;
+    border-radius: 20px;
+    padding-left: 20px;
+    background-color: rgb(209, 166, 173);
+    margin-right: 2%;
+}
+.goal img{
+    width: 50%;
+}
+
+.develop-limit{
+    display: flex;
+    margin-bottom: 90px;
+    
+}
+.develop-img img{
+    width: 90%;
+}
+.develop-img{
+    width: 40%;
+    
+}
+.develop{
+    width: 50%;
+    margin-left: 3%;
+    margin-top:2%;
+}
+.develop h2{
+    font-size: 40px;
+}
+.develop p{
+    padding-bottom: 20px;
+}
+.global-community{
+    display: flex;
+    padding-bottom: 20px;
+}
+.community{
+    width: 50%;
+}
+.community h2{
+    font-size: 40px;
+}
+.community p{
+    padding-bottom: 20px;
+}
+.community-img img{
+    width: 90%;
+}
+.community-img{
+    width: 40%;
+    margin-left: 3%;
+}
+.application-section h1{
+    text-align:center;
+    font-size: 50px;
+}
+.global-application{
+    display: flex;
+    margin-bottom:90px;
+    margin-top: 90px;
+    
+}
+.application h1{
+    font-size:40px;
+    text-align:left
+}
+.application-img{
+    width: 55%;
+    padding-left: 60px;
+}
+.application{
+    width:40%;
+    padding-left: 20px;
+}
+.application p{
+    padding-bottom: 20px;
+}
+
+footer{
+    background-color:black;
+    text-align:center;
+    font-style:italic;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+footer h1{
+    color:white;
+}
+footer h5{
+    color:white;
+}
